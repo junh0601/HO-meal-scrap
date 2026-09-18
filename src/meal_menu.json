@@ -1,93 +1,6 @@
 {
-  "collected_at": "2026-09-18T13:15:40.744567+09:00",
+  "collected_at": "2026-09-19T08:06:17.563519+09:00",
   "welliv": [
-    {
-      "date": "09/18 (금)",
-      "time": "아침",
-      "menu": {
-        "A(한식)": [
-          "조갯살미역국(30Kcal)",
-          "쌀밥/현미밥(403Kcal)",
-          "오징어콩나물찜(265Kcal)",
-          "쑥갓나물(37Kcal)",
-          "배추김치(58Kcal)",
-          "맛김(봉)(10Kcal)"
-        ],
-        "건강식": [
-          "샐러드채소+드레싱(204Kcal)",
-          "참기름+고추장+누룽지죽"
-        ],
-        "B(간편식)": [
-          "브라운브레드샌드위치(338Kcal)",
-          "크림스프(90Kcal)",
-          "오리엔탈드레싱샐러드(246Kcal)",
-          "음료(609Kcal)"
-        ]
-      }
-    },
-    {
-      "date": "09/18 (금)",
-      "time": "점심",
-      "menu": {
-        "A(한식)": [
-          "한마리가자미튀김(701Kcal)",
-          "쌀밥/현미밥(465Kcal)",
-          "근대국(50Kcal)",
-          "알어묵볶음(93Kcal)",
-          "무말랭이무침(147Kcal)",
-          "배추김치(58Kcal)",
-          "요구르트(52Kcal)"
-        ],
-        "C(분식)": [
-          "김치온국수(761Kcal)",
-          "쌀밥(분식)(248Kcal)",
-          "핫바/소스(91Kcal)",
-          "배추김치(58Kcal)",
-          "요구르트(52Kcal)"
-        ],
-        "B(일품식)": [
-          "눈꽃치즈김치볶음밥(629Kcal)",
-          "근대국(50Kcal)",
-          "알어묵볶음(93Kcal)",
-          "오이무침(30Kcal)",
-          "깍두기(30Kcal)",
-          "요구르트(52Kcal)"
-        ],
-        "TakeOut(샐러드)": [
-          "★운영식당 : PDC#1/오션플라자/느태식당★",
-          "벌집소시지샐러드(697Kcal)",
-          "견과류(73Kcal)",
-          "음료(7종/택1)(366Kcal)"
-        ],
-        "TakeOut(컵밥)": [
-          "매콤제육컵밥(1096Kcal)",
-          "근대국(50Kcal)",
-          "음료(7종/택1)(366Kcal)"
-        ]
-      }
-    },
-    {
-      "date": "09/18 (금)",
-      "time": "저녁",
-      "menu": {
-        "A(한식)": [
-          "순대국밥(153Kcal)",
-          "쌀밥/현미밥(465Kcal)",
-          "해물동그랑땡/케첩(331Kcal)",
-          "비트무절임(64Kcal)",
-          "부추겉절이(31Kcal)",
-          "배추김치(58Kcal)"
-        ],
-        "B(일품식)": [
-          "컵라면(3종/택1)(745Kcal)",
-          "쌀밥/현미밥(465Kcal)",
-          "바나나(150Kcal)",
-          "삶은계란(98Kcal)",
-          "배추김치(58Kcal)",
-          "음료(644Kcal)"
-        ]
-      }
-    },
     {
       "date": "09/19 (토)",
       "time": "아침",
@@ -202,387 +115,96 @@
           "삶은계란(98Kcal)"
         ]
       }
+    },
+    {
+      "date": "09/21 (월)",
+      "time": "아침",
+      "menu": {
+        "A(한식)": [
+          "부대찌개(408Kcal)",
+          "쌀밥/현미밥(403Kcal)",
+          "두부민찌조림(250Kcal)",
+          "마늘쫑무침(117Kcal)",
+          "배추김치(58Kcal)",
+          "맛김(봉)(10Kcal)",
+          "떠먹는요거트(80Kcal)"
+        ],
+        "건강식": [
+          "샐러드채소+드레싱(204Kcal)",
+          "참기름+고추장+누룽지죽"
+        ],
+        "B(간편식)": [
+          "치즈소스버거(502Kcal)",
+          "야채스프(83Kcal)",
+          "사우전아일랜드샐러드(256Kcal)",
+          "음료(609Kcal)",
+          "떠먹는요거트(80Kcal)"
+        ]
+      }
+    },
+    {
+      "date": "09/21 (월)",
+      "time": "점심",
+      "menu": {
+        "A(한식)": [
+          "부산식돼지국밥+다대기(362Kcal)",
+          "쌀밥/현미밥(465Kcal)",
+          "국물떡볶이(190Kcal)",
+          "청초/양파/막장(85Kcal)",
+          "부추겉절이(30Kcal)",
+          "섞박지(14Kcal)",
+          "요구르트(52Kcal)"
+        ],
+        "C(분식)": [
+          "황태칼국수(1172Kcal)",
+          "쌀밥(분식)(248Kcal)",
+          "중국식물만두찜(509Kcal)",
+          "배추김치(58Kcal)",
+          "요구르트(52Kcal)"
+        ],
+        "B(일품식)": [
+          "야채볶음밥(602Kcal)",
+          "사골파국(21Kcal)",
+          "국물떡볶이(190Kcal)",
+          "찹쌀순대/쌈장(47Kcal)",
+          "배추김치(58Kcal)",
+          "요구르트(52Kcal)"
+        ],
+        "TakeOut(샐러드)": [
+          "★운영식당 : PDC#1/오션플라자/느태식당★",
+          "치킨텐더샐러드(645Kcal)",
+          "견과류(73Kcal)",
+          "음료(7종/택1)(366Kcal)"
+        ],
+        "TakeOut(컵밥)": [
+          "돈육필라프컵밥(1209Kcal)",
+          "무채국(24Kcal)",
+          "음료(7종/택1)(366Kcal)"
+        ]
+      }
+    },
+    {
+      "date": "09/21 (월)",
+      "time": "저녁",
+      "menu": {
+        "A(한식)": [
+          "옛날비빔밥(713Kcal)",
+          "들깨미역국(32Kcal)",
+          "어묵오징어무침(146Kcal)",
+          "계란후라이(117Kcal)",
+          "배추김치(58Kcal)"
+        ],
+        "B(일품식)": [
+          "순살등심돈까스(857Kcal)",
+          "옥수수스프(83Kcal)",
+          "데미그라소스(29Kcal)",
+          "요거트드레싱샐러드(232Kcal)",
+          "배추김치(58Kcal)"
+        ]
+      }
     }
   ],
   "pulmuone": [
-    {
-      "date": "2026-09-18",
-      "time": "아침",
-      "menu": {
-        "A Corner (한식)": [
-          "황태어글탕",
-          "쌀밥/현미밥100％",
-          "떡갈비파채무침",
-          "고사리나물",
-          "도시락김",
-          "포기김치"
-        ],
-        "B Corner (일품/양식)": [
-          "불고기버거",
-          "크림스프",
-          "그린샐러드＆드레싱",
-          "흰우유/두유/(제로)콜라"
-        ]
-      },
-      "nutrition": [
-        {
-          "corner": "A Corner (한식)",
-          "menu_name": "황태어글탕",
-          "items": [
-            {
-              "name": "황태어글탕",
-              "kcal": 340.0
-            },
-            {
-              "name": "쌀밥/현미밥100％",
-              "kcal": 414.0
-            },
-            {
-              "name": "떡갈비파채무침",
-              "kcal": 520.0
-            },
-            {
-              "name": "고사리나물",
-              "kcal": 65.0
-            },
-            {
-              "name": "도시락김",
-              "kcal": 12.0
-            },
-            {
-              "name": "포기김치",
-              "kcal": 40.0
-            }
-          ],
-          "site_total_kcal": null,
-          "items_sum_kcal": 1391.0,
-          "total_kcal": 1391.0,
-          "total_source": "items_sum",
-          "status": "available"
-        },
-        {
-          "corner": "B Corner (일품/양식)",
-          "menu_name": "불고기버거",
-          "items": [
-            {
-              "name": "불고기버거",
-              "kcal": 430.0
-            },
-            {
-              "name": "크림스프",
-              "kcal": 87.0
-            },
-            {
-              "name": "그린샐러드＆드레싱",
-              "kcal": 65.0
-            },
-            {
-              "name": "흰우유/두유/(제로)콜라",
-              "kcal": 120.0
-            }
-          ],
-          "site_total_kcal": null,
-          "items_sum_kcal": 702.0,
-          "total_kcal": 702.0,
-          "total_source": "items_sum",
-          "status": "available"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "time": "점심",
-      "menu": {
-        "A Corner (한식)": [
-          "해물순두부찌개",
-          "쌀밥/현미밥100％",
-          "메추리알곤약조림",
-          "맛살새송이버섯볶음",
-          "열무쌈장나물",
-          "포기김치"
-        ],
-        "B Corner (일품/양식)": [
-          "알떡햄버거스테이크(함박)＆소스",
-          "쌀밥",
-          "양송이크림스프",
-          "토마토스파게티",
-          "포기김치"
-        ],
-        "C Corner (분식)": [
-          "바지락칼국수＆양념장",
-          "쌀밥",
-          "메밀전병＆초간장",
-          "단무지",
-          "포기김치"
-        ],
-        "TAKE OUT": [
-          "★미운영 식당：GBS★",
-          "메인)훈제오리샐러드",
-          "메인)컵라면+주먹밥",
-          "메인)프로틴쉐이크＆우유",
-          "메인)샌드위치",
-          "사이드)구운계란",
-          "사이드)완두앙금빵",
-          "사이드)요거톡",
-          "음료)썬키스트애사비제로스파클링",
-          "음료)마시는두부콩즙",
-          "음료)포도봉봉캔",
-          "음료)덴마크미숫우유"
-        ]
-      },
-      "nutrition": [
-        {
-          "corner": "A Corner (한식)",
-          "menu_name": "해물순두부찌개",
-          "items": [
-            {
-              "name": "해물순두부찌개",
-              "kcal": 188.0
-            },
-            {
-              "name": "쌀밥/현미밥100％",
-              "kcal": 414.0
-            },
-            {
-              "name": "메추리알곤약조림",
-              "kcal": 125.0
-            },
-            {
-              "name": "맛살새송이버섯볶음",
-              "kcal": 160.0
-            },
-            {
-              "name": "열무쌈장나물",
-              "kcal": 19.0
-            },
-            {
-              "name": "포기김치",
-              "kcal": 40.0
-            }
-          ],
-          "site_total_kcal": null,
-          "items_sum_kcal": 946.0,
-          "total_kcal": 946.0,
-          "total_source": "items_sum",
-          "status": "available"
-        },
-        {
-          "corner": "B Corner (일품/양식)",
-          "menu_name": "알떡햄버거스테이크(함박)＆소스",
-          "items": [
-            {
-              "name": "알떡햄버거스테이크(함박)＆소스",
-              "kcal": 400.0
-            },
-            {
-              "name": "쌀밥",
-              "kcal": 345.0
-            },
-            {
-              "name": "양송이크림스프",
-              "kcal": 97.0
-            },
-            {
-              "name": "토마토스파게티",
-              "kcal": 400.0
-            },
-            {
-              "name": "포기김치",
-              "kcal": 40.0
-            }
-          ],
-          "site_total_kcal": null,
-          "items_sum_kcal": 1282.0,
-          "total_kcal": 1282.0,
-          "total_source": "items_sum",
-          "status": "available"
-        },
-        {
-          "corner": "C Corner (분식)",
-          "menu_name": "바지락칼국수＆양념장",
-          "items": [
-            {
-              "name": "바지락칼국수＆양념장",
-              "kcal": 730.0
-            },
-            {
-              "name": "쌀밥",
-              "kcal": 345.0
-            },
-            {
-              "name": "메밀전병＆초간장",
-              "kcal": 220.0
-            },
-            {
-              "name": "단무지",
-              "kcal": 10.0
-            },
-            {
-              "name": "포기김치",
-              "kcal": 40.0
-            }
-          ],
-          "site_total_kcal": null,
-          "items_sum_kcal": 1345.0,
-          "total_kcal": 1345.0,
-          "total_source": "items_sum",
-          "status": "available"
-        },
-        {
-          "corner": "TAKE OUT",
-          "menu_name": "TAKE OUT",
-          "items": [
-            {
-              "name": "★미운영 식당：GBS★",
-              "kcal": null
-            },
-            {
-              "name": "메인)훈제오리샐러드",
-              "kcal": 786.0
-            },
-            {
-              "name": "메인)컵라면+주먹밥",
-              "kcal": null
-            },
-            {
-              "name": "메인)프로틴쉐이크＆우유",
-              "kcal": null
-            },
-            {
-              "name": "메인)샌드위치",
-              "kcal": null
-            },
-            {
-              "name": "사이드)구운계란",
-              "kcal": null
-            },
-            {
-              "name": "사이드)완두앙금빵",
-              "kcal": null
-            },
-            {
-              "name": "사이드)요거톡",
-              "kcal": null
-            },
-            {
-              "name": "음료)썬키스트애사비제로스파클링",
-              "kcal": null
-            },
-            {
-              "name": "음료)마시는두부콩즙",
-              "kcal": null
-            },
-            {
-              "name": "음료)포도봉봉캔",
-              "kcal": null
-            },
-            {
-              "name": "음료)덴마크미숫우유",
-              "kcal": null
-            }
-          ],
-          "site_total_kcal": null,
-          "items_sum_kcal": null,
-          "total_kcal": null,
-          "total_source": null,
-          "status": "available"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "time": "저녁",
-      "menu": {
-        "A Corner (한식)": [
-          "참치생채소비빔밥＆비빔고추장",
-          "쌀밥/현미밥100％",
-          "아욱된장국",
-          "계란후라이",
-          "고구마연근맛탕",
-          "포기김치"
-        ],
-        "B Corner (일품/양식)": [
-          "컵라면(3종 택1)",
-          "쌀밥",
-          "포기김치",
-          "삶은계란",
-          "바나나",
-          "과일맛주스"
-        ]
-      },
-      "nutrition": [
-        {
-          "corner": "A Corner (한식)",
-          "menu_name": "참치생채소비빔밥＆비빔고추장",
-          "items": [
-            {
-              "name": "참치생채소비빔밥＆비빔고추장",
-              "kcal": 655.0
-            },
-            {
-              "name": "쌀밥/현미밥100％",
-              "kcal": 414.0
-            },
-            {
-              "name": "아욱된장국",
-              "kcal": 70.0
-            },
-            {
-              "name": "계란후라이",
-              "kcal": 95.0
-            },
-            {
-              "name": "고구마연근맛탕",
-              "kcal": 530.0
-            },
-            {
-              "name": "포기김치",
-              "kcal": 40.0
-            }
-          ],
-          "site_total_kcal": null,
-          "items_sum_kcal": 1804.0,
-          "total_kcal": 1804.0,
-          "total_source": "items_sum",
-          "status": "available"
-        },
-        {
-          "corner": "B Corner (일품/양식)",
-          "menu_name": "컵라면(3종 택1)",
-          "items": [
-            {
-              "name": "컵라면(3종 택1)",
-              "kcal": 592.0
-            },
-            {
-              "name": "쌀밥",
-              "kcal": 345.0
-            },
-            {
-              "name": "포기김치",
-              "kcal": 40.0
-            },
-            {
-              "name": "삶은계란",
-              "kcal": 63.0
-            },
-            {
-              "name": "바나나",
-              "kcal": 58.0
-            },
-            {
-              "name": "과일맛주스",
-              "kcal": 50.0
-            }
-          ],
-          "site_total_kcal": null,
-          "items_sum_kcal": 1148.0,
-          "total_kcal": 1148.0,
-          "total_source": "items_sum",
-          "status": "available"
-        }
-      ]
-    },
     {
       "date": "2026-09-19",
       "time": "아침",
@@ -995,33 +617,33 @@
           "items": [
             {
               "name": "가지미구이＆양념장",
-              "kcal": null
+              "kcal": 280.0
             },
             {
               "name": "쌀밥/현미밥100％",
-              "kcal": null
+              "kcal": 414.0
             },
             {
               "name": "청양시락국",
-              "kcal": null
+              "kcal": 70.0
             },
             {
               "name": "햄감자조림",
-              "kcal": null
+              "kcal": 200.0
             },
             {
               "name": "미역줄기볶음",
-              "kcal": null
+              "kcal": 65.0
             },
             {
               "name": "포기김치",
-              "kcal": null
+              "kcal": 40.0
             }
           ],
           "site_total_kcal": null,
-          "items_sum_kcal": null,
-          "total_kcal": null,
-          "total_source": null,
+          "items_sum_kcal": 1069.0,
+          "total_kcal": 1069.0,
+          "total_source": "items_sum",
           "status": "available"
         },
         {
@@ -1030,29 +652,29 @@
           "items": [
             {
               "name": "소고기버섯부추밥＆양념장",
-              "kcal": null
+              "kcal": 540.0
             },
             {
               "name": "청양시락국",
-              "kcal": null
+              "kcal": 70.0
             },
             {
               "name": "햄감자조림",
-              "kcal": null
+              "kcal": 200.0
             },
             {
               "name": "미역줄기볶음",
-              "kcal": null
+              "kcal": 65.0
             },
             {
               "name": "포기김치",
-              "kcal": null
+              "kcal": 40.0
             }
           ],
           "site_total_kcal": null,
-          "items_sum_kcal": null,
-          "total_kcal": null,
-          "total_source": null,
+          "items_sum_kcal": 915.0,
+          "total_kcal": 915.0,
+          "total_source": "items_sum",
           "status": "available"
         },
         {
@@ -1061,29 +683,29 @@
           "items": [
             {
               "name": "잔치국수＆양념장",
-              "kcal": null
+              "kcal": 560.0
             },
             {
               "name": "쌀밥",
-              "kcal": null
+              "kcal": 345.0
             },
             {
               "name": "치킨너겟강정",
-              "kcal": null
+              "kcal": 450.0
             },
             {
               "name": "단무지",
-              "kcal": null
+              "kcal": 10.0
             },
             {
               "name": "포기김치",
-              "kcal": null
+              "kcal": 40.0
             }
           ],
           "site_total_kcal": null,
-          "items_sum_kcal": null,
-          "total_kcal": null,
-          "total_source": null,
+          "items_sum_kcal": 1405.0,
+          "total_kcal": 1405.0,
+          "total_source": "items_sum",
           "status": "available"
         },
         {
@@ -1417,33 +1039,33 @@
           "items": [
             {
               "name": "통마늘돼지불백",
-              "kcal": null
+              "kcal": 560.0
             },
             {
               "name": "쌀밥/현미밥100％",
-              "kcal": null
+              "kcal": 414.0
             },
             {
               "name": "계란파국",
-              "kcal": null
+              "kcal": 35.0
             },
             {
               "name": "상추쌈＆쌈장",
-              "kcal": null
+              "kcal": 6.0
             },
             {
               "name": "무말랭이무침",
-              "kcal": null
+              "kcal": 55.0
             },
             {
               "name": "포기김치",
-              "kcal": null
+              "kcal": 40.0
             }
           ],
           "site_total_kcal": null,
-          "items_sum_kcal": null,
-          "total_kcal": null,
-          "total_source": null,
+          "items_sum_kcal": 1110.0,
+          "total_kcal": 1110.0,
+          "total_source": "items_sum",
           "status": "available"
         },
         {
@@ -1452,29 +1074,29 @@
           "items": [
             {
               "name": "쌀떡볶이",
-              "kcal": null
+              "kcal": 550.0
             },
             {
               "name": "김가루볶음밥",
-              "kcal": null
+              "kcal": 550.0
             },
             {
               "name": "계란파국",
-              "kcal": null
+              "kcal": 35.0
             },
             {
               "name": "군만두＆초간장",
-              "kcal": null
+              "kcal": 510.0
             },
             {
               "name": "포기김치",
-              "kcal": null
+              "kcal": 40.0
             }
           ],
           "site_total_kcal": null,
-          "items_sum_kcal": null,
-          "total_kcal": null,
-          "total_source": null,
+          "items_sum_kcal": 1685.0,
+          "total_kcal": 1685.0,
+          "total_source": "items_sum",
           "status": "available"
         },
         {
@@ -1483,33 +1105,33 @@
           "items": [
             {
               "name": "메이하오_짜장면",
-              "kcal": null
+              "kcal": 820.0
             },
             {
               "name": "쌀밥",
-              "kcal": null
+              "kcal": 345.0
             },
             {
               "name": "계란파국",
-              "kcal": null
+              "kcal": 35.0
             },
             {
               "name": "군만두＆초간장",
-              "kcal": null
+              "kcal": 510.0
             },
             {
               "name": "단무지",
-              "kcal": null
+              "kcal": 10.0
             },
             {
               "name": "포기김치",
-              "kcal": null
+              "kcal": 40.0
             }
           ],
           "site_total_kcal": null,
-          "items_sum_kcal": null,
-          "total_kcal": null,
-          "total_source": null,
+          "items_sum_kcal": 1760.0,
+          "total_kcal": 1760.0,
+          "total_source": "items_sum",
           "status": "available"
         },
         {
@@ -1798,37 +1420,37 @@
           "items": [
             {
               "name": "반마리치킨＆허니머스＊소금",
-              "kcal": null
+              "kcal": 750.0
             },
             {
               "name": "쌀밥/현미밥100％",
-              "kcal": null
+              "kcal": 414.0
             },
             {
               "name": "청양어묵탕",
-              "kcal": null
+              "kcal": 114.0
             },
             {
               "name": "콩나물파채무침",
-              "kcal": null
+              "kcal": 16.0
             },
             {
               "name": "치킨무피클",
-              "kcal": null
+              "kcal": 95.0
             },
             {
               "name": "겉절이김치",
-              "kcal": null
+              "kcal": 40.0
             },
             {
               "name": "탄산음료",
-              "kcal": null
+              "kcal": 414.0
             }
           ],
           "site_total_kcal": null,
-          "items_sum_kcal": null,
-          "total_kcal": null,
-          "total_source": null,
+          "items_sum_kcal": 1843.0,
+          "total_kcal": 1843.0,
+          "total_source": "items_sum",
           "status": "available"
         },
         {
@@ -1837,37 +1459,37 @@
           "items": [
             {
               "name": "반마리치킨＆허니머스＊소금",
-              "kcal": null
+              "kcal": 750.0
             },
             {
               "name": "쌀밥/현미밥100％",
-              "kcal": null
+              "kcal": 414.0
             },
             {
               "name": "청양어묵탕",
-              "kcal": null
+              "kcal": 114.0
             },
             {
               "name": "콩나물파채무침",
-              "kcal": null
+              "kcal": 16.0
             },
             {
               "name": "치킨무피클",
-              "kcal": null
+              "kcal": 95.0
             },
             {
               "name": "겉절이김치",
-              "kcal": null
+              "kcal": 40.0
             },
             {
               "name": "탄산음료",
-              "kcal": null
+              "kcal": 414.0
             }
           ],
           "site_total_kcal": null,
-          "items_sum_kcal": null,
-          "total_kcal": null,
-          "total_source": null,
+          "items_sum_kcal": 1843.0,
+          "total_kcal": 1843.0,
+          "total_source": "items_sum",
           "status": "available"
         },
         {
@@ -1876,33 +1498,33 @@
           "items": [
             {
               "name": "포장마차우동",
-              "kcal": null
+              "kcal": 570.0
             },
             {
               "name": "쌀밥",
-              "kcal": null
+              "kcal": 345.0
             },
             {
               "name": "반마리닭오븐구이＆소금/허니머스S",
-              "kcal": null
+              "kcal": 550.0
             },
             {
               "name": "치킨무피클",
-              "kcal": null
+              "kcal": 95.0
             },
             {
               "name": "포기김치",
-              "kcal": null
+              "kcal": 40.0
             },
             {
               "name": "탄산음료",
-              "kcal": null
+              "kcal": 120.0
             }
           ],
           "site_total_kcal": null,
-          "items_sum_kcal": null,
-          "total_kcal": null,
-          "total_source": null,
+          "items_sum_kcal": 1720.0,
+          "total_kcal": 1720.0,
+          "total_source": "items_sum",
           "status": "available"
         },
         {
@@ -1977,13 +1599,6 @@
           "도토리묵야채무침",
           "콩조림",
           "깍두기"
-        ],
-        "B Corner (일품/양식)": [
-          "참치마요덮밥＆데리야끼소스",
-          "우동국물",
-          "옛날소시지전＆케첩",
-          "오복지무침",
-          "포기김치"
         ]
       },
       "nutrition": [
@@ -2019,37 +1634,6 @@
           "site_total_kcal": null,
           "items_sum_kcal": 1449.0,
           "total_kcal": 1449.0,
-          "total_source": "items_sum",
-          "status": "available"
-        },
-        {
-          "corner": "B Corner (일품/양식)",
-          "menu_name": "참치마요덮밥＆데리야끼소스",
-          "items": [
-            {
-              "name": "참치마요덮밥＆데리야끼소스",
-              "kcal": 720.0
-            },
-            {
-              "name": "우동국물",
-              "kcal": 180.0
-            },
-            {
-              "name": "옛날소시지전＆케첩",
-              "kcal": 180.0
-            },
-            {
-              "name": "오복지무침",
-              "kcal": 35.0
-            },
-            {
-              "name": "포기김치",
-              "kcal": 40.0
-            }
-          ],
-          "site_total_kcal": null,
-          "items_sum_kcal": 1155.0,
-          "total_kcal": 1155.0,
           "total_source": "items_sum",
           "status": "available"
         }
@@ -2131,33 +1715,148 @@
           "items": [
             {
               "name": "제육불고기",
-              "kcal": null
+              "kcal": 650.0
             },
             {
               "name": "쌀밥/현미밥100％",
-              "kcal": null
+              "kcal": 414.0
             },
             {
               "name": "된장찌개",
-              "kcal": null
+              "kcal": 180.0
             },
             {
               "name": "오이무침",
-              "kcal": null
+              "kcal": 45.0
             },
             {
               "name": "고사리나물",
-              "kcal": null
+              "kcal": 65.0
             },
             {
               "name": "포기김치",
-              "kcal": null
+              "kcal": 40.0
             }
           ],
+          "site_total_kcal": null,
+          "items_sum_kcal": 1394.0,
+          "total_kcal": 1394.0,
+          "total_source": "items_sum",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "time": "아침",
+      "menu": {
+        "A Corner (한식)": [
+          "얼큰수제비국",
+          "쌀밥/현미밥100％",
+          "메추리알장조림",
+          "옥수수콘샐러드",
+          "도시락김",
+          "포기김치"
+        ],
+        "B Corner (일품/양식)": [
+          "불고기버거"
+        ]
+      },
+      "nutrition": [
+        {
+          "corner": "A Corner (한식)",
+          "menu_name": "얼큰수제비국",
+          "items": [
+            {
+              "name": "얼큰수제비국",
+              "kcal": 200.0
+            },
+            {
+              "name": "쌀밥/현미밥100％",
+              "kcal": 414.0
+            },
+            {
+              "name": "메추리알장조림",
+              "kcal": 125.0
+            },
+            {
+              "name": "옥수수콘샐러드",
+              "kcal": 21.0
+            },
+            {
+              "name": "도시락김",
+              "kcal": 12.0
+            },
+            {
+              "name": "포기김치",
+              "kcal": 40.0
+            }
+          ],
+          "site_total_kcal": null,
+          "items_sum_kcal": 812.0,
+          "total_kcal": 812.0,
+          "total_source": "items_sum",
+          "status": "available"
+        },
+        {
+          "corner": "B Corner (일품/양식)",
+          "menu_name": "불고기버거",
+          "items": [],
           "site_total_kcal": null,
           "items_sum_kcal": null,
           "total_kcal": null,
           "total_source": null,
+          "status": "not_provided"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "time": "점심",
+      "menu": {
+        "A Corner (한식)": [
+          "훈제오리고추장불고기",
+          "쌀밥/현미밥100％",
+          "탕국",
+          "다시마채젓갈무침",
+          "연근조림",
+          "포기김치"
+        ]
+      },
+      "nutrition": [
+        {
+          "corner": "A Corner (한식)",
+          "menu_name": "훈제오리고추장불고기",
+          "items": [
+            {
+              "name": "훈제오리고추장불고기",
+              "kcal": 450.0
+            },
+            {
+              "name": "쌀밥/현미밥100％",
+              "kcal": 414.0
+            },
+            {
+              "name": "탕국",
+              "kcal": 230.0
+            },
+            {
+              "name": "다시마채젓갈무침",
+              "kcal": 45.0
+            },
+            {
+              "name": "연근조림",
+              "kcal": 95.0
+            },
+            {
+              "name": "포기김치",
+              "kcal": 40.0
+            }
+          ],
+          "site_total_kcal": null,
+          "items_sum_kcal": 1274.0,
+          "total_kcal": 1274.0,
+          "total_source": "items_sum",
           "status": "available"
         }
       ]
