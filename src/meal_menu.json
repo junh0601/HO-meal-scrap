@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-18T07:56:26.636131+09:00",
+  "collected_at": "2026-10-18T13:04:50.928803+09:00",
   "welliv": [
     {
       "date": "10/18 (일)",
@@ -437,6 +437,20 @@
           "단무지",
           "포기김치",
           "요구르트"
+        ],
+        "TAKE OUT": [
+          "★미운영 식당：GBS★",
+          "메인)치킨까스샐러드",
+          "메인)컵라면+주먹밥",
+          "메인)샌드위치",
+          "메인)프로틴쉐이크",
+          "사이드)구운계란",
+          "사이드)진한풍미후랑크",
+          "사이드)요거톡",
+          "음료)아임리얼",
+          "음료)쿨피스복숭아",
+          "음료)베지밀",
+          "음료)미숫미숫우유"
         ]
       },
       "nutrition": [
@@ -547,6 +561,65 @@
           "items_sum_kcal": 1685.0,
           "total_kcal": 1685.0,
           "total_source": "items_sum",
+          "status": "available"
+        },
+        {
+          "corner": "TAKE OUT",
+          "menu_name": "TAKE OUT",
+          "items": [
+            {
+              "name": "★미운영 식당：GBS★",
+              "kcal": null
+            },
+            {
+              "name": "메인)치킨까스샐러드",
+              "kcal": 832.0
+            },
+            {
+              "name": "메인)컵라면+주먹밥",
+              "kcal": null
+            },
+            {
+              "name": "메인)샌드위치",
+              "kcal": null
+            },
+            {
+              "name": "메인)프로틴쉐이크",
+              "kcal": null
+            },
+            {
+              "name": "사이드)구운계란",
+              "kcal": null
+            },
+            {
+              "name": "사이드)진한풍미후랑크",
+              "kcal": null
+            },
+            {
+              "name": "사이드)요거톡",
+              "kcal": null
+            },
+            {
+              "name": "음료)아임리얼",
+              "kcal": null
+            },
+            {
+              "name": "음료)쿨피스복숭아",
+              "kcal": null
+            },
+            {
+              "name": "음료)베지밀",
+              "kcal": null
+            },
+            {
+              "name": "음료)미숫미숫우유",
+              "kcal": null
+            }
+          ],
+          "site_total_kcal": null,
+          "items_sum_kcal": null,
+          "total_kcal": null,
+          "total_source": null,
           "status": "available"
         }
       ]
@@ -808,7 +881,18 @@
           "요구르트"
         ],
         "TAKE OUT": [
-          "TAKE OUT"
+          "★미운영 식당：GBS★",
+          "메인)언양식불고기샐러드",
+          "메인)컵라면+삼각김밥",
+          "메인)올바른전주비빔김밥",
+          "메인)샌드위치",
+          "사이드)구운계란",
+          "사이드)육즙듬뿍만두",
+          "사이드)요거톡",
+          "음료)프레시업",
+          "음료)콜드포도펫",
+          "음료)액티비아UP",
+          "음료)바나바나우유"
         ]
       },
       "nutrition": [
@@ -928,12 +1012,61 @@
         {
           "corner": "TAKE OUT",
           "menu_name": "TAKE OUT",
-          "items": [],
+          "items": [
+            {
+              "name": "★미운영 식당：GBS★",
+              "kcal": null
+            },
+            {
+              "name": "메인)언양식불고기샐러드",
+              "kcal": 799.0
+            },
+            {
+              "name": "메인)컵라면+삼각김밥",
+              "kcal": null
+            },
+            {
+              "name": "메인)올바른전주비빔김밥",
+              "kcal": null
+            },
+            {
+              "name": "메인)샌드위치",
+              "kcal": null
+            },
+            {
+              "name": "사이드)구운계란",
+              "kcal": null
+            },
+            {
+              "name": "사이드)육즙듬뿍만두",
+              "kcal": null
+            },
+            {
+              "name": "사이드)요거톡",
+              "kcal": null
+            },
+            {
+              "name": "음료)프레시업",
+              "kcal": null
+            },
+            {
+              "name": "음료)콜드포도펫",
+              "kcal": null
+            },
+            {
+              "name": "음료)액티비아UP",
+              "kcal": null
+            },
+            {
+              "name": "음료)바나바나우유",
+              "kcal": null
+            }
+          ],
           "site_total_kcal": null,
           "items_sum_kcal": null,
           "total_kcal": null,
           "total_source": null,
-          "status": "not_provided"
+          "status": "available"
         }
       ]
     },
@@ -1141,7 +1274,18 @@
           "요구르트"
         ],
         "TAKE OUT": [
-          "TAKE OUT"
+          "★미운영 식당：GBS★",
+          "메인)닭가슴살샐러드",
+          "메인)컵라면+주먹밥",
+          "메인)헬시팩",
+          "메인)샌드위치",
+          "사이드)구운계란",
+          "사이드)포카칩",
+          "사이드)요거톡",
+          "음료)아임리얼당근",
+          "음료)코코팜포도캔",
+          "음료)액티비아UP",
+          "음료)딸기타임"
         ]
       },
       "nutrition": [
@@ -1261,12 +1405,61 @@
         {
           "corner": "TAKE OUT",
           "menu_name": "TAKE OUT",
-          "items": [],
+          "items": [
+            {
+              "name": "★미운영 식당：GBS★",
+              "kcal": null
+            },
+            {
+              "name": "메인)닭가슴살샐러드",
+              "kcal": 783.0
+            },
+            {
+              "name": "메인)컵라면+주먹밥",
+              "kcal": null
+            },
+            {
+              "name": "메인)헬시팩",
+              "kcal": null
+            },
+            {
+              "name": "메인)샌드위치",
+              "kcal": null
+            },
+            {
+              "name": "사이드)구운계란",
+              "kcal": null
+            },
+            {
+              "name": "사이드)포카칩",
+              "kcal": null
+            },
+            {
+              "name": "사이드)요거톡",
+              "kcal": null
+            },
+            {
+              "name": "음료)아임리얼당근",
+              "kcal": null
+            },
+            {
+              "name": "음료)코코팜포도캔",
+              "kcal": null
+            },
+            {
+              "name": "음료)액티비아UP",
+              "kcal": null
+            },
+            {
+              "name": "음료)딸기타임",
+              "kcal": null
+            }
+          ],
           "site_total_kcal": null,
           "items_sum_kcal": null,
           "total_kcal": null,
           "total_source": null,
-          "status": "not_provided"
+          "status": "available"
         }
       ]
     },
@@ -1526,7 +1719,18 @@
           "요구르트"
         ],
         "TAKE OUT": [
-          "TAKE OUT"
+          "★미운영 식당：GBS★",
+          "메인)그릴소시지샐러드",
+          "메인)컵라면+삼각김밥",
+          "메인)올바른매콤어묵김밥",
+          "메인)샌드위치",
+          "사이드)구운계란",
+          "사이드)이슬만두직화불고기",
+          "사이드)요거톡",
+          "음료)프레시업",
+          "음료)덴마크테이크얼라이브",
+          "음료)검은콩두유",
+          "음료)초코타임"
         ]
       },
       "nutrition": [
@@ -1642,12 +1846,61 @@
         {
           "corner": "TAKE OUT",
           "menu_name": "TAKE OUT",
-          "items": [],
+          "items": [
+            {
+              "name": "★미운영 식당：GBS★",
+              "kcal": null
+            },
+            {
+              "name": "메인)그릴소시지샐러드",
+              "kcal": 811.0
+            },
+            {
+              "name": "메인)컵라면+삼각김밥",
+              "kcal": null
+            },
+            {
+              "name": "메인)올바른매콤어묵김밥",
+              "kcal": null
+            },
+            {
+              "name": "메인)샌드위치",
+              "kcal": null
+            },
+            {
+              "name": "사이드)구운계란",
+              "kcal": null
+            },
+            {
+              "name": "사이드)이슬만두직화불고기",
+              "kcal": null
+            },
+            {
+              "name": "사이드)요거톡",
+              "kcal": null
+            },
+            {
+              "name": "음료)프레시업",
+              "kcal": null
+            },
+            {
+              "name": "음료)덴마크테이크얼라이브",
+              "kcal": null
+            },
+            {
+              "name": "음료)검은콩두유",
+              "kcal": null
+            },
+            {
+              "name": "음료)초코타임",
+              "kcal": null
+            }
+          ],
           "site_total_kcal": null,
           "items_sum_kcal": null,
           "total_kcal": null,
           "total_source": null,
-          "status": "not_provided"
+          "status": "available"
         }
       ]
     },
@@ -1853,7 +2106,18 @@
           "요구르트"
         ],
         "TAKE OUT": [
-          "TAKE OUT"
+          "★미운영 식당：GBS★",
+          "메인)불고기두유면샐러드",
+          "메인)컵라면+주먹밥",
+          "메인)더블상하이스파이시버거",
+          "메인)샌드위치",
+          "사이드)구운계란",
+          "사이드)의성마늘직꾸닭",
+          "사이드)요거톡",
+          "음료)아임리얼",
+          "음료)비타C자몽제로에이드",
+          "음료)마시는두부콩즙",
+          "음료)흼우유"
         ]
       },
       "nutrition": [
@@ -1965,12 +2229,61 @@
         {
           "corner": "TAKE OUT",
           "menu_name": "TAKE OUT",
-          "items": [],
+          "items": [
+            {
+              "name": "★미운영 식당：GBS★",
+              "kcal": null
+            },
+            {
+              "name": "메인)불고기두유면샐러드",
+              "kcal": 767.0
+            },
+            {
+              "name": "메인)컵라면+주먹밥",
+              "kcal": null
+            },
+            {
+              "name": "메인)더블상하이스파이시버거",
+              "kcal": null
+            },
+            {
+              "name": "메인)샌드위치",
+              "kcal": null
+            },
+            {
+              "name": "사이드)구운계란",
+              "kcal": null
+            },
+            {
+              "name": "사이드)의성마늘직꾸닭",
+              "kcal": null
+            },
+            {
+              "name": "사이드)요거톡",
+              "kcal": null
+            },
+            {
+              "name": "음료)아임리얼",
+              "kcal": null
+            },
+            {
+              "name": "음료)비타C자몽제로에이드",
+              "kcal": null
+            },
+            {
+              "name": "음료)마시는두부콩즙",
+              "kcal": null
+            },
+            {
+              "name": "음료)흼우유",
+              "kcal": null
+            }
+          ],
           "site_total_kcal": null,
           "items_sum_kcal": null,
           "total_kcal": null,
           "total_source": null,
-          "status": "not_provided"
+          "status": "available"
         }
       ]
     },
